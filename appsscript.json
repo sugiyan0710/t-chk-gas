@@ -1,0 +1,11 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "SheetToObjectArray",
+      "libraryId": "1RZ8f9EL0_8w6U90i3h6BtJeso25nentbFyZdlPTD3mVVbTJc6GH7T8q7",
+      "version": "1"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
